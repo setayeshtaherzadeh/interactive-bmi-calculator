@@ -1,14 +1,3 @@
-// mikhaim zamani bmi mohasebe beshe ke yeki az input hamon change beshe 
-//on 2 ta input range ro tarif mikonim to js 
-//onchange tarif mikonim bara 2 tashun ke tariq kardan felan beshe
-
-// value bmi ro miaim dakhele tag p qarar midim 
-// vaqti dastgiire ro tekon midim tavelesh nakoni adada taqir nmikonan va in bade
-// pas miaim be ja roidad onchange roidad oninput mizarim
-//bmi to baze haie khasi bud rang neveshte va mstne paine adad baiad taqiir kone 
-
-
-
 const weightInput = document.querySelector('#weight')
 const heightInput = document.querySelector('#height')
 const weightVal = document.querySelector('#weight-val')   //1
